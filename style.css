@@ -1,0 +1,29 @@
+
+#results {
+	display:none;
+  }
+  h1{
+	background-color: white;
+  }
+
+  h5{
+    color: white;
+  }
+ 
+  .card{
+    background-color:grey;
+  }
+
+form#tip-form{
+  background-color: white;
+}
+  
+  .input-group-addon{
+	border-radius: 30%;
+	border: 3px solid green;
+	
+  }
+
+  #tip-form{
+	background-color: grey;
+  }
